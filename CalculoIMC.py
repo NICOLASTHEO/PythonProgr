@@ -24,10 +24,10 @@ elif IMC >=40:
   print(f'imc de {IMC}, atitudes drasticas precisam ser tomadas na sua vida. Treino, dieta, fé... e parar e comer tanto assim também né meu Donuts recheado.')
 if SEXO == 2:
     print('OBS.:'
-    '\n BORA MULHER, VAI FAZER UNS AGACHAMENTOS E DEPOIS VOLTA AQUI PARA GENTE CONVERSAR...TODA FITNESS HEIM! BLZ ;-)')
+    '\n MAS BORA MULHER, VAI FAZER UNS AGACHAMENTOS E DEPOIS VOLTA AQUI PARA GENTE CONVERSAR...TODA FITNESS HEIM! BLZ ;-)')
 elif SEXO ==1:
            print('OBS.:' 
-          '\n TE ANIMA HOMI! VAI LEVANTAR UNS FERROS E DEPOIS VOLTA AQUI PARA GENTE CONVERSAR... BLZ!!!')
+          '\n MESMO ASSIM, TE ANIMA HOMI! VAI LEVANTAR UNS FERROS E DEPOIS VOLTA AQUI PARA GENTE CONVERSAR... BLZ!!!')
 else:
   print('OBS.:'
   '\n Amor prazer em te conhecer, vamos juntxs nessa caminhada fitness heim meu amore! TMJX')
